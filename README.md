@@ -2,6 +2,7 @@
 - 간단한 e-커머스 프로젝트
 
   기술 : Java, Spring, JPA, Mysql, Redis, Docker, AWS
+  
   목표 : 판매자와 구매자 사이를 중계해주는 커머스 서버를 구축한다.
 
 ## 회원
